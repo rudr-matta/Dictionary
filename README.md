@@ -1,0 +1,1 @@
+The Dictionary App is a JavaScript-based application that allows users to search for word meanings quickly and easily. It fetches data from google dictionary API and provides definitions, synonyms, and example sentences. Simple, efficient, and user-friendly, it's a helpful tool for expanding vocabulary.
